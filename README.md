@@ -16,23 +16,23 @@
 - графическое представление о том как переместить фигуру в два хода(если необходимо)
 # Тесты
 ## Тест 1 
-![image](https://user-images.githubusercontent.com/113837843/200648682-3600a033-fa11-4192-83af-f1377813d8ca.png)
-Рисунок 1.1 Исходные клетки
-![image](https://user-images.githubusercontent.com/113837843/200648769-151ba20a-76b8-4bab-ae0f-d9fe4fdf4192.png)
+![image](https://user-images.githubusercontent.com/113837843/200648682-3600a033-fa11-4192-83af-f1377813d8ca.png)\
+Рисунок 1.1 Исходные клетки\
+![image](https://user-images.githubusercontent.com/113837843/200648769-151ba20a-76b8-4bab-ae0f-d9fe4fdf4192.png)\
 Рисунок 1.2 Входные данные
 ## Тест 2
-![image](https://user-images.githubusercontent.com/113837843/200649111-f902ef6e-4f7e-418a-bd71-d089a060c277.png)
+![image](https://user-images.githubusercontent.com/113837843/200649111-f902ef6e-4f7e-418a-bd71-d089a060c277.png)\
 Рисунок 2.1 Исходные клетки
-![image](https://user-images.githubusercontent.com/113837843/200649211-bf67ef0e-268a-40be-ae75-fc8a3c8fb0a9.png)
+![image](https://user-images.githubusercontent.com/113837843/200649211-bf67ef0e-268a-40be-ae75-fc8a3c8fb0a9.png)\
 Рисунок 2.2 Реализация за два хода
-![image](https://user-images.githubusercontent.com/113837843/200649274-9d951332-f64d-488c-957d-7e76b90208e3.png)
+![image](https://user-images.githubusercontent.com/113837843/200649274-9d951332-f64d-488c-957d-7e76b90208e3.png)\
 Рисунок 2.3 Входные данные
 ## Тест 3
-![image](https://user-images.githubusercontent.com/113837843/200649769-0ff7eff1-c1c5-43be-b52c-91ab45da954d.png)
+![image](https://user-images.githubusercontent.com/113837843/200649769-0ff7eff1-c1c5-43be-b52c-91ab45da954d.png)\
 Рисунок 3.1 Исходные клетки
-![image](https://user-images.githubusercontent.com/113837843/200649852-e13a627f-04d3-40c6-8c65-87234e81dece.png)
+![image](https://user-images.githubusercontent.com/113837843/200649852-e13a627f-04d3-40c6-8c65-87234e81dece.png)\
 Рисунок 3.2 Реализация за два хода
-![image](https://user-images.githubusercontent.com/113837843/200649909-bc96f651-0d42-4b0a-96fc-b7a0d274e863.png)
+![image](https://user-images.githubusercontent.com/113837843/200649909-bc96f651-0d42-4b0a-96fc-b7a0d274e863.png)\
 Рисунок 3.3 Входные данные
 
 
