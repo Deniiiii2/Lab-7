@@ -1,6 +1,6 @@
 from random import randint
 import logging
-logging.basicConfig(level=logging.INFO, filename="LOGLAB7",filemode="w",
+logging.basicConfig(level=logging.INFO, filename="LOGLAB7.log",filemode="w",
                     format="%(asctime)s %(levelname)s %(message)s")
 
 
