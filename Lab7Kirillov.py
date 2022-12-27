@@ -1,3 +1,9 @@
+from random import randint
+import logging
+logging.basicConfig(level=logging.INFO, filename="LOGLAB7",filemode="w",
+                    format="%(asctime)s %(levelname)s %(message)s")
+
+
 k = int(input('k: '))
 logging.info('Пользователь выбрал данное число k: ' + str(k))
 l = int(input('l: '))
