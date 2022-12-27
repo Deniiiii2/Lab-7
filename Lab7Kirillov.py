@@ -1,7 +1,3 @@
-from random import randint
-import logging
-logging.basicConfig(level=logging.INFO, filename="Lab7Kirillov.py",filemode="w",
-                    format="%(asctime)s %(levelname)s %(message)s")
 k = int(input('k: '))
 logging.info('Пользователь выбрал данное число k: ' + str(k))
 l = int(input('l: '))
